@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Recruitment & Placement Portal",
+  "description": "Centralized digital campus placement and recruitment platform connecting students, placement officers, and recruiters with automated eligibility checks, drive workflows, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
